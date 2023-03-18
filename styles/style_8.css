@@ -1,0 +1,20 @@
+table {
+    width: 50%;
+    font-size: 30px;
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+}
+
+.table_1 {
+    caption-side: top;
+    border-collapse: collapse;
+}
+
+.table_2 {
+    caption-side: bottom;
+    border-spacing: 10px;
+    empty-cells: hide;
+}

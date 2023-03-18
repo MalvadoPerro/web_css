@@ -1,0 +1,13 @@
+.list_1 {
+    width: 500px;
+    background-color: yellow;
+    list-style-position: outside;
+    list-style-type: decimal;
+}
+
+.list_2 {
+    width: 500px;
+    background-color: violet;
+    list-style-position: outside;
+    list-style-type: square;
+}
